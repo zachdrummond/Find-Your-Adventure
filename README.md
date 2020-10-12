@@ -7,8 +7,10 @@ Thank you very much for taking the time to view our web-app! We hope you are abl
 - [Description](#Description)
 - [Design Elements](#Design-Elements)
 - [App Preview](#App-Preview)
+- [Future Development Ideas](#Future-Development-Ideas)
 - [Links](#Links)
 - [Credits](#Credits)
+- [License](#License)
 
 ## Description
 
