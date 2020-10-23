@@ -14,7 +14,7 @@ Thank you very much for taking the time to view our web-app! We hope you are abl
 
 ## Description
 
-This is a one stop shop website that gives you everything you need to know about a national park site in one place, based on your preferences. We want to help users like you spend your precious time at one of America’s national park site, not online trying to get there. 
+This is a one stop shop website that gives you everything you need to know about a national park site in one place, based on your preferences. We want to help users like you spend your precious time at one of America’s national park site, not online trying to get there.
 
 ### _Usage_
 
@@ -49,71 +49,11 @@ This is a one stop shop website that gives you everything you need to know about
 
 ## Design Elements
 
-We chose to design our web-app using only one url and using DOM manipulation and event listeners to change the content as needed.
-
-### _JavaScript_
-
-- Clean User Interface
-- Server-Side APIs
-- API Key
-- Parameter Queries
-- Dynamically Updated HTML and CSS powered by jQuery
-- Document Object Model Manipulation
+- JavaScript
 - Local Storage
-- JSON
-- AJAX
-- Logical Code Structure
-- Sequential Order
-- Objects
-- Arrays
-- Global and Local Variables
-- Functions
-- Methods
-- Event Listeners
-- if...else Statements
-- for Loops
-- Comments
-
-### _Bootstrap_
-
-- Grid System
-- Navbar
-- Carousel
-- Card Decks and Cards
-- Forms
-- Buttons
-- Alignment
-- Sizing
-- Spacing
-- Icons
-
-### _HTML_
-
-- Logical Structure
-- Sequential Order
-- Links to Bootstrap, jQuery, JavaScript, and CSS Files
-- Concise Descriptive Title
-- Semantic Elements
-- ids, Classes, and Elements
-- Modals
-- Forms
-- Dropdown List
-- Buttons
-- Comments
-
-### _CSS_
-- Background Image
-- Animation
-- Hover
-- Z-Index
-- Float
-- Alignment
-- Padding and Margin
-- Opacity
-- Font and Text
-- Colors
-- Height and Width
-- Comments
+- HTML
+- CSS
+- Bootstrap
 
 ## App Preview
 
@@ -153,11 +93,11 @@ We chose to design our web-app using only one url and using DOM manipulation and
 - Add more details to the description page of each national park site.
 - A separate page for the user’s favorite parks.
 - Use the National Park Service API to dynamically populate the topics and activities.
-- The ability to... 
-    - Search for multiple criteria at one time.
-    - Search for a national park site based on distance preference.
-    - Clear the favorites page with a clear button.
-    - Email or text the directions to the user’s mobile device.
+- The ability to...
+  - Search for multiple criteria at one time.
+  - Search for a national park site based on distance preference.
+  - Clear the favorites page with a clear button.
+  - Email or text the directions to the user’s mobile device.
 - Create a trip to a national park site.
 - Share the trip with others through social media.
 - An assessment to help the user figure out his/her national park site preferences.
