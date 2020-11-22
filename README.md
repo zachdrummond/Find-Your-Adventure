@@ -49,39 +49,47 @@ This is a one stop shop website that gives you everything you need to know about
 
 ## Design Elements
 
+### _Technologies_
+
+- National Park Service API
+- MapQuest API
+
+### _Front End_
+
 - JavaScript
 - Local Storage
+- AJAX
 - HTML
 - CSS
 - Bootstrap
 
 ## App Preview
 
-### Home Page
+### _Home Page__
 
 ![Screenshot](assets/images/FindYourAdventure1.png)
 
-### Home Page with Favorites
+### _Home Page with Favorites_
 
 ![Screenshot](assets/images/FindYourAdventure8.png)
 
-### Topics or Activities
+### _Topics or Activities_
 
 ![Screenshot](assets/images/FindYourAdventure2.png)
 
-### Topics Page
+### _Topics Page_
 
 ![Screenshot](assets/images/FindYourAdventure3.png)
 
-### Activities Page
+### _Activities Page_
 
 ![Screenshot](assets/images/FindYourAdventure4.png)
 
-### List of Parks Page
+### _List of Parks Page_
 
 ![Screenshot](assets/images/FindYourAdventure5.png)
 
-### Specific Park Page
+### _Specific Park Page_
 
 ![Screenshot](assets/images/FindYourAdventure6.png)
 ![Screenshot](assets/images/FindYourAdventure7.png)
